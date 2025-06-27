@@ -1,3 +1,15 @@
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+
+
+
+
+
+
+
 absl-py==1.4.0
 accelerate==1.8.1
 aiofiles==24.1.0
